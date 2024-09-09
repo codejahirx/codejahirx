@@ -1,4 +1,4 @@
-## Hi, I'm Jahir 👋
+## Hi, I'm Jahir Hussain 👋
 I'm a passionate Django Developer with a strong background in web development, transitioning from a 5-year career as an SEO Analyst. I thrive in building scalable and efficient web applications, leveraging my experience to bridge the gap between technical development and user-centered design.<br>
 
 
